@@ -1,0 +1,25 @@
+{
+  "name": "appteste",
+  "version": "1.0.0",
+  "description": "Aplicativo teste.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "apptestepovojava"
+  },
+  "keywords": [
+    "aplicativo",
+    "teste",
+    "javascript",
+    "node"
+  ],
+  "author": "Chosen Child",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
